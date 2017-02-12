@@ -3,12 +3,13 @@
 A simple Website with the Login page. The system cooperates with MySQL databases.
 
 Back end:
-1. The database that will store notes and users.  
-2. The website that allows visitors to register or log in. If they are logged in, display a form
-and display the notes per particular user.
-3. The note is loaded with a little delay asynchronously.  
 
-In this test assignment I used:
+* The database that will store notes and users.  
+* The website that allows visitors to register or log in. If they are logged in, display a form
+and display the notes per particular user.
+* The note is loaded with a little delay asynchronously.  
+
+In this assignment I used:
 
 ```
 * MySQL
